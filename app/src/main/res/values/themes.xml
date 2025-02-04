@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.BrewManager" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="buttonStyle">@style/BrewManagerButton</item>
+    </style>
+
+    <style name="Theme.BrewManager" parent="Base.Theme.BrewManager" />
+
+
+    <style name="BrewManagerButton" parent="Widget.Material3.Button">
+        <item name="android:background">#8B4513</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>

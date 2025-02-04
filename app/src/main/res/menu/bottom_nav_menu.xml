@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/coffee"
+        android:icon="@drawable/coffee_cup"
+        android:title="Items" />
+    <item
+        android:id="@+id/bill"
+        android:icon="@drawable/bill"
+        android:title="Orders" />
+    <item
+        android:id="@+id/notification"
+        android:icon="@drawable/notification_bell"
+        android:title="Notifications" />
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/logout"
+        android:title="Logout" />
+</menu>
